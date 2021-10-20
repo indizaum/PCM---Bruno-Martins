@@ -4,4 +4,4 @@ Caderno digital para registo de estudos e procuras efetuadas no âmbito da U.C. 
 
 ## Compressão Imagens
 
-!(https://cdn.geckoandfly.com/wp-content/uploads/2016/12/lossy-compression-ratios.jpg)
+![Compressão](https://cdn.geckoandfly.com/wp-content/uploads/2016/12/lossy-compression-ratios.jpg)
