@@ -11,9 +11,10 @@ Caderno digital para registo de estudos e procuras efetuadas no âmbito da U.C. 
 
   São imagens que são compostas por pontos (contêm códigos de cores) individuais  e minúsculos que se misturam para criar uma imagem clara.
   
+[Website visitado](https://www.ciabyte.com.br/faq/o-que-e-imagem-bitmap.asp)
+ 
 ![Bitmap](https://www.ciabyte.com.br/imagens/mapa-bits.gif)
 
-[Website visitado](https://www.ciabyte.com.br/faq/o-que-e-imagem-bitmap.asp)
 
 ## Profundidade de Bits
 
