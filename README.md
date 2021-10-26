@@ -32,5 +32,6 @@ Caderno digital para registo de estudos e procuras efetuadas no âmbito da U.C. 
 [Website visitado](https://creativecommons.org/licenses/?lang=pt)
 
 ![CCL](https://www.researchgate.net/profile/Wagner-Soares-Rossi-2/publication/304661725/figure/fig1/AS:379033578688515@1467380055709/Figura-1-Simbolos-utilizados-e-atribuicoes-das-licencas-Creative-Commons-Fonte-Adaptado.png)
-  
+
+
 
