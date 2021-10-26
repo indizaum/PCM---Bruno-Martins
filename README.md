@@ -24,3 +24,13 @@ Caderno digital para registo de estudos e procuras efetuadas no âmbito da U.C. 
 
 ![Profundidade bits](https://www.sony.com/image/df061f174ed4404d8044a39195c24c28?fmt=png-alpha&wid=600)
 
+
+## Licenças Creative Commons
+
+  Ajudam os criadores a manter o seu direito de autor e os seus direitos conexos, ao mesmo tempo que permitem que outras pessoas copiem, distribuam e façam alguns usos do seu trabalho para fins não comerciais.
+
+[Website visitado](https://creativecommons.org/licenses/?lang=pt)
+
+![CCL](https://www.researchgate.net/profile/Wagner-Soares-Rossi-2/publication/304661725/figure/fig1/AS:379033578688515@1467380055709/Figura-1-Simbolos-utilizados-e-atribuicoes-das-licencas-Creative-Commons-Fonte-Adaptado.png)
+  
+
