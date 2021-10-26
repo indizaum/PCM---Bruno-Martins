@@ -7,7 +7,7 @@ Caderno digital para registo de estudos e procuras efetuadas no âmbito da U.C. 
 ![Compressão](https://cdn.geckoandfly.com/wp-content/uploads/2016/12/lossy-compression-ratios.jpg)
 
 
-##Bitmap
+## Bitmap
 
   São imagens que são compostas por pontos (contêm códigos de cores) individuais  e minúsculos que se misturam para criar uma imagem clara.
   
