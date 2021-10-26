@@ -18,4 +18,7 @@ Caderno digital para registo de estudos e procuras efetuadas no âmbito da U.C. 
 
   Especifica quantas informações sobre cores estão disponíveis para cada pixel da imagem. Mais bits de informação por pixel resultam em mais cores disponíveis e uma representação de cores mais precisa na imagem, afetando assim o tamanho da imagem.
 
+[Website visitado](https://helpx.adobe.com/pt/photoshop/using/bit-depth.html)
+
 ![Profundidade bits](https://www.sony.com/image/df061f174ed4404d8044a39195c24c28?fmt=png-alpha&wid=600)
+
