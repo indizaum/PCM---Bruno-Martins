@@ -38,10 +38,12 @@ Caderno digital para registo de estudos e procuras efetuadas no âmbito da U.C. 
 
 ![original](https://4.bp.blogspot.com/-mn0-VShv4ik/Uob35QzS6kI/AAAAAAAAFM0/UuLbtTX-tlk/s1600/Funny-Capybara.jpg)
 
-#### Editada
+#### Editada (Photoshop)
 
 ![obraprima](https://user-images.githubusercontent.com/75588930/138940810-ee4bc681-6148-4bda-973c-983f25757b67.jpg)
 
+#### Original
 
+![original](
 
 
