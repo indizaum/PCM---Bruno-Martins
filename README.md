@@ -44,10 +44,10 @@ Caderno digital para registo de estudos e procuras efetuadas no âmbito da U.C. 
 
 #### Original
 
-![original](https://user-images.githubusercontent.com/75588930/139092543-6d3bacdf-6e22-404e-acfc-07f46a5d46a2.jpg)
+<img src="https://user-images.githubusercontent.com/75588930/139092543-6d3bacdf-6e22-404e-acfc-07f46a5d46a2.jpg" width="355" height="600">
 
 #### Editada (Lightroom)
 
-![editada](https://user-images.githubusercontent.com/75588930/139092519-0a89cf9e-3439-4e80-8c88-7f7c0a50e571.jpg)
+<img src="https://user-images.githubusercontent.com/75588930/139092519-0a89cf9e-3439-4e80-8c88-7f7c0a50e571.jpg" width="355" height="600")
 
 
